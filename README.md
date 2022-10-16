@@ -3,7 +3,11 @@
   <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridsSilveira&layout=compact&langs_count=7&theme=dracula"/>
   </p>
-  <strong><span>Take a look on my Website 👉 <a href="https://ingridssilveira.github.io/IngridSouza/"><img align="center" width="40px" src="https://raw.githubusercontent.com/IngridsSilveira/IngridSouza/main/assets/imagens/favicon.ico"/></a> </span></strong>
+  <strong><span>Take a look on my Website 👇🏻
+
+</span></strong>
+  <br/>
+   <a href="https://ingridssilveira.github.io/IngridSouza/"><img align="center" src="https://raw.githubusercontent.com/IngridsSilveira/IngridSouza/main/assets/imagens/readme/Ingrid-FrontEnd-DeveloperP1.png"></a> 
    
    <h2> 💻 Languages | Tools 💻</h2>
     <div style="display: inline_block">
