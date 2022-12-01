@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Hello! Welcome to my Github profile. 👋</h1>
   <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridsSilveira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridsSilveira&theme=dracula"/>
   </p>
   <strong><span>Take a look on my Website 👇🏻
 
 </span></strong>
   <br/>
-   <a href="https://ingridssilveira.github.io/IngridSouza/"><img align="center" src="https://raw.githubusercontent.com/IngridsSilveira/IngridSouza/main/assets/imagens/readme/Ingrid-FrontEnd-DeveloperP1.png"></a> 
+   <a href="https://ingridssilveira.github.io/IngridSouza/"><img align="center" src="https://raw.githubusercontent.com/IngridsSilveira/IngridSouza/main/assets/imagens/favicon.ico"></a> 
    
    <h2> 💻 Languages | Tools 💻</h2>
     <div style="display: inline_block">
