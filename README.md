@@ -5,7 +5,7 @@
         <div style="display:flex; align-items: center; justify-content: center;">
           <p style="font-size: 1.1rem;"><strong>Look my website:</strong></p>
             <a href="https://ingridssilveira.github.io/IngridSouza/"><img style="margin-left: 6px;"
-                    src="https://raw.githubusercontent.com/IngridsSilveira/IngridSouza/main/assets/imagens/favicon.ico"></a>
+                    src="https://raw.githubusercontent.com/IngridsSilveira/IngridSouza/main/assets/imgs/favicon.ico"></a>
         </div>
         <div id="tools" style="margin-bottom: 15px;">
             <h2> 💻 Languages | Tools 💻</h2>
