@@ -1,13 +1,10 @@
-<div align="center">
+<div align="">
         <div style="margin-bottom: 10px;">
-            <p style="font-size: 1.5rem;"> Hello! This is my Github profile. 👋 </p>
-        </div>
-        <div style="display:flex; align-items: center; justify-content: center;">
-          <p style="font-size: 1.1rem;"><strong>Look my website:</strong></p>
-            <a href="https://ingridssilveira.github.io/IngridSouza/">Here!!</a>
+                <p style="font-size: 1.5rem;"> Hello! I'm Ingrid and this is my GitHub. 👋 </p>
+                <p style="font-size: 1.1rem;"><strong>Look my website:</strong> <a href="https://ingridssilveira.github.io/IngridSouza/">Here!!</a></p>
         </div>
         <div id="tools" style="margin-bottom: 15px;">
-            <h2> 💻 Languages | Tools 💻</h2>
+            <h2> 💻 Languages | Tools</h2>
             <div style="display: flex; align-items: center; justify-content: center;">
                 <img align="center" width="50px" alt="html5"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -40,7 +37,7 @@
                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         </div>
         <div>
-            <h2>🌱 Stats 🌱</h2>
+            <h2 align="center">🌱 Stats 🌱</h2>
             <p align="center">
                 <img style="height: 250px;"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridsSilveira&layout=compact&theme=vue-dark" />
