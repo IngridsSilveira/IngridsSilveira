@@ -4,8 +4,7 @@
         </div>
         <div style="display:flex; align-items: center; justify-content: center;">
           <p style="font-size: 1.1rem;"><strong>Look my website:</strong></p>
-            <a href="https://ingridssilveira.github.io/IngridSouza/"><img style="margin-left: 6px;"
-                    src="https://raw.githubusercontent.com/IngridsSilveira/IngridSouza/main/assets/imgs/favicon.ico"></a>
+            <a href="https://ingridssilveira.github.io/IngridSouza/">Here!!</a>
         </div>
         <div id="tools" style="margin-bottom: 15px;">
             <h2> 💻 Languages | Tools 💻</h2>
@@ -26,7 +25,7 @@
             <h2>🌱 I’m currently learning </h2>
             <p>
                 <img align="center" width="50px"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
                 <img align="center" width="50px"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
                 <img align="center" width="50px"
