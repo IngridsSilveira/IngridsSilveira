@@ -1,47 +1,40 @@
-<div align="">
-        <div style="margin-bottom: 10px;">
-                <p style="font-size: 1.5rem;"> Hello! I'm Ingrid and this is my GitHub. 👋 </p>
-                <p style="font-size: 1.1rem;"><strong>Look my website:</strong> <a href="https://ingridssilveira.github.io/IngridSouza/">Here!!</a></p>
-        </div>
-        <div id="tools" style="margin-bottom: 15px;">
-            <h2> 💻 Languages | Tools</h2>
-            <div style="display: flex; align-items: center; justify-content: center;">
-                <img align="center" width="50px" alt="html5"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-                <img style="margin-left: 5px;" align="center" width="50px" alt="css3"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-                <img style="margin-left: 5px;" align="center" width="50px" alt="javascript"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-                <img style="margin-left: 5px;" align="center" width="50px" alt="git"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-                <img style="margin-left: 5px;" align="center" width="50px" alt="vscode"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-            </div>
-        </div>
-        <div id="learning" style="margin-bottom: 15px;">
-            <h2>🌱 I’m currently learning </h2>
-            <p>
-                <img align="center" width="50px"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-                <img align="center" width="50px"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-                <img align="center" width="50px"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-            </p>
-        </div>
-        <div id="reachMe" style="margin-bottom: 15px;">
-            <h2>📫 How to reach me:</h2>
-            <a href="mailto:ingridsouzaok@gmail.com" /><img
-                src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-            <a href="https://www.linkedin.com/in/ingridssilveira/" /><img
-                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        </div>
-        <div>
-            <h2 align="center">🌱 Stats 🌱</h2>
-            <p align="center">
-                <img style="height: 250px;"
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+   <strong>
+        Olá, <br/>
+           Bem vindo(a) ao meu perfil.
+  </strong>
+</p>
+
+<p align="left">
+  🦄 Linguagens: <br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="imagem html"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="imagem css"/>
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="imagem javascript"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="imagem typescript"/>
+</p>
+
+<p align="left">
+  💼 Ferramentas:  <br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="imagem react"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="imagem tailwind"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="imagem bootstrap"/>
+        <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="imagem git"/>
+</p>
+
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ingridsouzaok@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/ingridssilveira/)" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[API-DO-SEU-WHATSAPP](https://api.whatsapp.com/send?phone=5521979661084)" alt="WhatsApp"/></a>
+</p>
+
+<img style="height: 250px;"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridsSilveira&layout=compact&theme=vue-dark" />
-            </p>
-        </div>
-        <br/>
-    </div>
