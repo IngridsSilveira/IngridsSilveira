@@ -36,5 +36,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[API-DO-SEU-WHATSAPP](https://api.whatsapp.com/send?phone=5521979661084)" alt="WhatsApp"/></a>
 </p>
 
-<img style="height: 250px;"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridsSilveira&layout=compact&theme=vue-dark" />
+<img style="height: 150px;"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=IngridsSilveira&repo=IngridSouza&theme=tokyonight" />
+<img style="height: 150px;"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridsSilveira&hide_progress=true&layout=compact&theme=tokyonight" />
